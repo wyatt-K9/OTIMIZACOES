@@ -1,4 +1,0 @@
-Ativar:
-net user administrador /active:yes
-Desativar:
-net user administrador /active:no
